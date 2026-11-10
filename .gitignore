@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+.env
+.env.local
+.env.*
+
+# Postman
+.postman/
+postman/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Editor and OS settings (VS Code & Windows)
+.vscode/
+Thumbs.db
+.DS_Store
